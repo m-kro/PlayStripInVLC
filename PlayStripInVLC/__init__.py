@@ -15,7 +15,7 @@ bl_info = {
     "location": "Video Sequence Editor > Right-click menu",
     "warning": "",
     "wiki_url": "",
-    "tracker_url": "",
+    "tracker_url": "https://github.com/m-kro/PlayStripInVLC/issues",
     "category": "Sequencer"
 }
 
